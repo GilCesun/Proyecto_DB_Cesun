@@ -1,1 +1,2 @@
-Se corrigió la tabla de normalización de adopción de mascotas
+[Correccion eduardo] Se corrigió la tabla de normalización de adopción de mascotas
+[Gibran Andrade] Se hicieron las normalizaciones y actualización de actividades en jira
